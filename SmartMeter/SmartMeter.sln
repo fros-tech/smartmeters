@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeterProducer", "Producer\MeterProducer.csproj", "{510C582A-07BE-4FD1-8D4E-3D03C66429F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeterConsumer", "Consumer\MeterConsumer.csproj", "{20541F1A-54D5-4E2B-9CDE-2537EBEDB45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510C582A-07BE-4FD1-8D4E-3D03C66429F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510C582A-07BE-4FD1-8D4E-3D03C66429F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510C582A-07BE-4FD1-8D4E-3D03C66429F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510C582A-07BE-4FD1-8D4E-3D03C66429F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20541F1A-54D5-4E2B-9CDE-2537EBEDB45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20541F1A-54D5-4E2B-9CDE-2537EBEDB45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20541F1A-54D5-4E2B-9CDE-2537EBEDB45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20541F1A-54D5-4E2B-9CDE-2537EBEDB45D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CAB8BEB-2616-4542-8977-53C29F6AE4A2}
+	EndGlobalSection
+EndGlobal
